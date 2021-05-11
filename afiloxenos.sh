@@ -1,5 +1,6 @@
 #!/bin/bash
 # shellcheck disable=SC1091
+# shellcheck disable=SC2154
 
 source "$HOME"/.afiloxenos/lang.sh
 
