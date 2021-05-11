@@ -11,12 +11,12 @@ containing an English term and its translation to your language will pop up ever
 To use it, you need the boxes command. It is a command that you can find in most repositories' repos. For Arch, you can download it from the AUR.
 
 # Installation
-* Download the script corresponding  to your language. Currently, only Greek is supported.
-* Place it in any directory in your home folder
-* Make it executable: <code>sudo chmod +x *script*.sh</code>
-* Edit your ~/.bashrc and add the path to this script (or <code>echo "*path/to/script.sh*" >> ~/.bashrc</code>)
-* <code>source ~/.bashrc</code>
-* Enjoy!
+* Download the setup script: <code>wget https://github.com/pogkythunder/afiloxenos/raw/main/setup.sh</code>
+* Run it: <code>./setup.sh</code>
+* Choose your language
+* Open a new terminal
+
+To remove it, run the setup script again and choose the uninstall option.
 
 # Contribute
 Help the cause by translating into your language. Simply edit the script and change the array in the format of
