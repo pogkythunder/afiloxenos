@@ -14,6 +14,7 @@ To use it, you need the boxes command. It is a command that you can find in most
 * Download the setup script: <code>wget https://github.com/pogkythunder/afiloxenos/raw/main/setup.sh</code>
 * Run it: <code>./setup.sh</code>
 * Choose your language
+* Once installation is complete, feel free to delete the setup script
 * Open a new terminal
 
 To remove it, run the setup script again and choose the uninstall option.
