@@ -9,6 +9,7 @@ containing an English term and its translation to your language will pop up ever
 
 # Requirements
 To use it, you need the boxes command. It is a command that you can find in most repositories' repos. For Arch, you can download it from the AUR.
+Your terminal must also support the respective alphabet, and text formatting.
 
 # Installation
 * Download the setup script: <code>wget https://github.com/pogkythunder/afiloxenos/raw/main/setup.sh</code>
