@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -e "Which language would you like to install?\n1. Greek 0. Uninstall\n>_"
-read -r lang
+read -rp lang
 
 mkdir "$HOME"/.afiloxenos
 cd "$HOME"/.afiloxenos || exit
